@@ -20,6 +20,5 @@ I'm set to earn my Bachelor's this September, and I'm excited to share my journe
 Always curious and ready to learn, I enjoy blending theory with hands-on tech to create smart, real-world solutions. 
 Welcome to my GitHub, where every line of code tells part of my story!
 
-🔭 I am currently working on my final major project for the DHBW  
-<br>
+🔭 I am currently working on my final major project for the DHBW<br>
 ⚡ Fun fact: I skate backwards better then forwards - Trust me :)
