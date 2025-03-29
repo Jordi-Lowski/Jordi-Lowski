@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a dual student at Hitachi Rail diving deep into Embedded Systems. 
+I'm set to earn my Bachelor's this September, and I'm excited to share my journey through public repositories showcasing my progress, experiments, and innovative project ideas.
+Always curious and ready to learn, I enjoy blending theory with hands-on tech to create smart, real-world solutions. 
+Welcome to my GitHub, where every line of code tells part of my story!
+
+🔭 I am currently working on my final major project for the DHBW
+⚡ Fun fact: I skate backwards better then forwards - Trust me :)
